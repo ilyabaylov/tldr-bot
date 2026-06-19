@@ -16,6 +16,8 @@ Telegram-бот для коротких выжимок из текста, ссы
 - Русский и английский язык ответа
 - OpenAI, Gemini или OpenAI-совместимый API: OpenRouter, NVIDIA, Groq
 
+<img src="https://github.com/ilyabaylov/tldr-bot/blob/main/demo.gif?raw=true">
+
 ## Быстрый старт
 
 ```bash
